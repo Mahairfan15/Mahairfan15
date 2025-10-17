@@ -1,37 +1,39 @@
 # 👋 Hi, I'm Mahairfan!
+A passionate **Frontend & Backend Developer** who loves turning creative ideas into beautiful and functional web experiences.  
 
-> 💻 A passionate **Frontend & Backend Developer** crafting visually appealing and functional digital experiences.
-
----
-
-## 🎨 About Me
-I'm a creative and detail-oriented developer who loves turning ideas into reality using code and design.  
-From crafting beautiful user interfaces to building backend systems, I enjoy every step of web development.
-
-- 🌐 Skilled in: **HTML, CSS, JavaScript, PHP, MySQL, Canva, Figma**  
-- 🎯 Focused on creating **responsive**, **user-friendly**, and **aesthetic** web experiences.  
-- 🚀 Always exploring new technologies and improving my design-to-development workflow.
+💻 Skilled in building responsive designs, interactive systems, and complete web solutions from concept to deployment.
 
 ---
 
-## 🧰 Tech Toolbox
-`HTML` • `CSS` • `JavaScript` • `Bootstrap` • `PHP` • `MySQL`  
-`Figma` • `Canva` • `Git` • `GitHub`
+## 🧠 About Me
+🌸 I’m a **Web Developer** with a focus on user-friendly and modern web design.  
+🚀 Constantly exploring new technologies and improving my skills in both **frontend** and **backend** development.  
+🎯 My goal is to build projects that are not just functional — but visually inspiring.  
 
 ---
 
-## 💡 What I Love Doing
-✨ Building creative website layouts  
-🎨 Designing in Figma & Canva  
-🧠 Solving real-world problems with code  
-💬 Collaborating on UI/UX design and web projects  
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,canva,vscode,github" />
+</p>
 
 ---
 
-## 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahairfan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahariba-irfan-a51a54389/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Mahairfan15-black?style=for-the-badge&logo=github)](https://github.com/Mahairfan15)
+
+
+
+
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahairfan15" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Mahairfan15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-⭐ *"Code with creativity, design with purpose."*  
+⭐ *“Code with creativity, design with purpose.”*  
