@@ -1,28 +1,37 @@
 # 👋 Hi, I'm Mahairfan!
-A passionate **Frontend & Backend Developer** who loves bringing creative ideas to life through clean code and design.
 
-💡 Skilled in: **HTML, CSS, JavaScript, PHP, MySQL, Canva, and Figma**  
-🎨 I enjoy designing beautiful, responsive websites and functional systems.  
-🚀 Constantly learning and exploring new technologies to level up my skills.
+> 💻 A passionate **Frontend & Backend Developer** crafting visually appealing and functional digital experiences.
 
 ---
 
-## 🌟 Featured Projects
-### 🎢 [Merciado Amusement Park Project](https://github.com/Mahairfan15/Merciado-Amusement-park-project)
-An interactive, colorful website designed for a theme park — focusing on creativity and engaging UI.
+## 🎨 About Me
+I'm a creative and detail-oriented developer who loves turning ideas into reality using code and design.  
+From crafting beautiful user interfaces to building backend systems, I enjoy every step of web development.
 
-### 🍽️ [Restaurant Website](https://github.com/Mahairfan15/restaurant)
-A fully responsive restaurant website built using HTML and CSS, featuring menu, layout, and smooth navigation.
-
-### 🚚 [Courier System Website](https://github.com/Mahairfan15/courier_system-website)
-A simple, system-based web project showing backend logic and layout management.
+- 🌐 Skilled in: **HTML, CSS, JavaScript, PHP, MySQL, Canva, Figma**  
+- 🎯 Focused on creating **responsive**, **user-friendly**, and **aesthetic** web experiences.  
+- 🚀 Always exploring new technologies and improving my design-to-development workflow.
 
 ---
 
-## 🧰 Tech Stack
-`HTML` | `CSS` | `JavaScript` | `PHP` | `MySQL` | `Canva` | `Figma`
+## 🧰 Tech Toolbox
+`HTML` • `CSS` • `JavaScript` • `Bootstrap` • `PHP` • `MySQL`  
+`Figma` • `Canva` • `Git` • `GitHub`
 
 ---
 
-## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/mahariba-irfan-a51a54389/) | [GitHub](https://github.com/Mahairfan15)
+## 💡 What I Love Doing
+✨ Building creative website layouts  
+🎨 Designing in Figma & Canva  
+🧠 Solving real-world problems with code  
+💬 Collaborating on UI/UX design and web projects  
+
+---
+
+## 📫 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahairfan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahariba-irfan-a51a54389/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Mahairfan15-black?style=for-the-badge&logo=github)](https://github.com/Mahairfan15)
+
+---
+
+⭐ *"Code with creativity, design with purpose."*  
