@@ -26,7 +26,7 @@ A passionate **Frontend & Backend Developer** who loves turning creative ideas i
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/mahariba-irfan" target="_blank">
+  <a href="https://linkedin.com/in/mahariba-irfan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/Mahairfan15" target="_blank">
